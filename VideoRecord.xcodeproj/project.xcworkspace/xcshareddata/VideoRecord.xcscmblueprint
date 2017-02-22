@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DA78B66872EEE6DDBA3AEE31D4C19814DDA3ADB4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6DAC2EF68DB7339AE46E91EDD7ADBA197112D94" : 0,
+    "DA78B66872EEE6DDBA3AEE31D4C19814DDA3ADB4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2AF0404D-3294-4949-831E-793B6547B81D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6DAC2EF68DB7339AE46E91EDD7ADBA197112D94" : "VideoRecord",
+    "DA78B66872EEE6DDBA3AEE31D4C19814DDA3ADB4" : "AwesomeVideoRecoder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoRecord",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VideoRecord.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AndyFightting\/VideoRecord.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6DAC2EF68DB7339AE46E91EDD7ADBA197112D94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vitaliy8979\/AwesomeVideoRecoder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA78B66872EEE6DDBA3AEE31D4C19814DDA3ADB4"
+    }
+  ]
+}
